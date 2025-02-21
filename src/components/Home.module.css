@@ -1,0 +1,31 @@
+.page {
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .portfolio {
+    margin: 20px 0;
+  }
+  
+  .portfolioImages img {
+    width: 100px; /* Ajuste conforme necessário */
+    margin: 5px;
+  }
+  
+  .booking {
+    margin: 20px 0;
+  }
+  
+  .bookingForm {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .textCenter {
+    text-align: center;
+  }
+
+  

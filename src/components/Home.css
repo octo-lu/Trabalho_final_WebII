@@ -1,0 +1,34 @@
+.page {
+  font-family: 'Poppins', sans-serif;
+}
+
+.section-main-bunner {
+  background-image: url('https://lh3.googleusercontent.com/uw4aZou5dTqLkdI3VYGQT1YuPNygyTF0sybAUv4zJ2vZcCOxu-LjKCR1RPBqp3pYV3vJ6Hj4TyRS6InHL89O-cxXHWIHKZWEsGrLz1rBqNRI4j5hAI5Xxeww9UnKLJQ2UqeNlcyf');
+  background-size: cover;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.booking-form input {
+  margin: 10px 0;
+  padding: 10px;
+  width: 300px;
+}
+
+.booking-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.booking-form button:hover {
+  background-color: #0056b3;
+}
